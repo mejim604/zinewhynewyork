@@ -1,0 +1,28 @@
+body{
+    background-color:antiquewhite; 
+}
+
+h1{
+    color: coral;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 5px;
+    font-size: 100px;
+}
+
+h2{
+    color: teal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+p{
+    max-width: 600px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p.solid{
+    border-style: solid;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-width: 0.25px;
+    font-size: 25px;
+  }
